@@ -10,7 +10,7 @@ REFERENCE_FILE = Path("cdp_reference.json")
 file = open(CONFIG_FILE)
 devices = yaml.safe_load(file)["devices"]
 file.close()
-# Вводим логин и пароль один раз
+# Вводим логин и пароль
 username = input("Введите логин: ")
 password = getpass("Введите пароль: ")
 # Собираем соседей по каждому свитчу
@@ -49,7 +49,4 @@ for ip, neighbors in all_neighbors.items():
        print(f"[{ip}] Удалены:", removed)
    if not added and not removed:
        print(f"[{ip}] Изменений нет")
-# Сохраняем эталон
-file = open(REFERENCE_FILE, "w")
-json.dump(all_neighbors, file, indent=2)
-file.close()
+
