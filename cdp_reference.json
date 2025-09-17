@@ -1,0 +1,106 @@
+{
+  "10.61.88.34": [
+    [
+      "YRS-5005-CORE.ru",
+      "Gig 1/0/49",
+      "Ten 1/0/5"
+    ],
+    [
+      "YRS-5005-SWPA-TC18-28.ru.globusgrp.org",
+      "Gig 1/0/48",
+      "Gig 1/0/50"
+    ]
+  ],
+  "10.61.88.11": [
+    [
+      "SEP189c5d2126f7",
+      "Gig 1/0/3",
+      "Port 1"
+    ],
+    [
+      "SEP189c5d2121e3",
+      "Gig 1/0/4",
+      "Port 1"
+    ],
+    [
+      "SEP189c5d21264e",
+      "Gig 1/0/1",
+      "Port 1"
+    ],
+    [
+      "AP_Tresor_temp",
+      "Gig 1/0/11",
+      "Gig 0"
+    ],
+    [
+      "SW104",
+      "Gig 1/0/13",
+      "bridge"
+    ],
+    [
+      "SW020",
+      "Gig 1/0/13",
+      "bridge"
+    ],
+    [
+      "SW103",
+      "Gig 1/0/13",
+      "bridge"
+    ],
+    [
+      "SW021",
+      "Gig 1/0/13",
+      "bridge"
+    ],
+    [
+      "SW102",
+      "Gig 1/0/13",
+      "bridge"
+    ],
+    [
+      "SW019",
+      "Gig 1/0/13",
+      "bridge"
+    ],
+    [
+      "SW018",
+      "Gig 1/0/13",
+      "bridge"
+    ],
+    [
+      "SEP34DBFDE495EC",
+      "Gig 1/0/7",
+      "Port 1"
+    ],
+    [
+      "SEP189c5d2120ae",
+      "Gig 1/0/9",
+      "Port 1"
+    ],
+    [
+      "SEP189c5d2120bd",
+      "Gig 1/0/2",
+      "Port 1"
+    ],
+    [
+      "SEP34DBFDE494F2",
+      "Gig 1/0/8",
+      "Port 1"
+    ],
+    [
+      "SEP34DBFDE4952E",
+      "Gig 1/0/6",
+      "Port 1"
+    ],
+    [
+      "YRS-5005-SWPA-TC52-13.ru.globusgrp.org",
+      "Gig 1/0/49",
+      "Gig 0/3"
+    ],
+    [
+      "YRS-5005-SW-ML03-36.ru.globusgrp.org",
+      "Gig 1/0/47",
+      "Gig 1/0/48"
+    ]
+  ]
+}
